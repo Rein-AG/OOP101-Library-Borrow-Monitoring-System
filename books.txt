@@ -1,0 +1,5 @@
+B001|Object-Oriented Programming in Java|Herbert Schildt|false
+B002|Clean Code: Agile Software Craftsmanship|Robert C. Martin|false
+B003|Data Structures and Algorithms in Java|Robert Lafore|false
+B004|Database System Concepts|Abraham Silberschatz|false
+B005|Introduction to Computing|Peter Norton|false
